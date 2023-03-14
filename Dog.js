@@ -1,0 +1,3 @@
+funciton Dog() {
+this.stomach = [];
+}
